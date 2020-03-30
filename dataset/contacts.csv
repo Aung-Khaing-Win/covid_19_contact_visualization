@@ -1,0 +1,18 @@
+From,To,weight,type,place,city/village
+Aung Moe,Kyaw Naing,0.9,physical,Site A,City A
+Aung Moe,Ma Aye,0.3,3 - 6 ft,Site A,City A
+Ma Aye,Win Ko,0.2,3 - 6 ft,Site A,City A
+Ma Aye,Win Kmaung,0.1,> 6 ft,Site B,City A
+Win Ko,Than Aung,0.2,3 - 6 ft,Site C,City A
+Than Aung,Win Maung,0.9,physical,Side D,City A
+Than Aung,Aung Moe,0.1,> 6 ft,Side D,City A
+Than Aung,Soe Myint,0.5,< 3 ft,Side D,City A
+Than Aung,Mg Htwe,0.8,physical,Side D,City A
+Than Aung,Khin Mar,0.67,< 3 ft,Side D,City A
+Than Aung,San Win,0.23,3 - 6 ft,Side D,City A
+Than Aung,Aye Aye,0.11,> 6 ft,Side D,City A
+Ma Aye,Joke,0.8,physical,Site A,City A
+Ma Aye,Than Hla,0.6,< 3 ft,Site B,City A
+Win Ko,Aung Moe,0.1,> 6 ft,Site B,City A
+Aung Moe,War War,0.3,3 - 6 ft,Site A,City A
+Aung Moe,Myo Ko,0.3,3 - 6 ft,Site A,City A
